@@ -1,0 +1,21 @@
+{
+    "kernel": "_Z6kernelPfS_S_",
+    "targetFunction": false,
+    "targetNested": false,
+    "targetLoopsID": [
+        0
+    ],
+    "doCGRAMapping": true,
+    "row": 2,
+    "column": 2,
+    "precisionAware": false,
+    "heterogeneity": false,
+    "isTrimmedDemo": true,
+    "heuristicMapping": true,
+    "parameterizableCGRA": false,
+    "diagonalVectorization": false,
+    "bypassConstraint": 4,
+    "isStaticElasticCGRA": false,
+    "ctrlMemConstraint": 8,
+    "regConstraint": 8
+}
